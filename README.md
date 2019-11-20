@@ -1,2 +1,2 @@
-#Python Academy
+# Python Academy
 ## Zadania domowe
